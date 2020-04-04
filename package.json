@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/soyaya/Hello-world#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "jest": "^25.2.4"
   }
 }
